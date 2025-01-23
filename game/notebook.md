@@ -34,4 +34,9 @@ Lista de objetos: Antique Compass.
 Lista de personas: Vacía.
 Conclusión: No descartamos el objeto porque es el único mencionado. Seguimos hacia los pasillos.
 
+5.Inspección en los pasillos (aisles dentro de market)
+clue.txt: Confirmación de que este es el lugar del crimen.
+Archivos persons.txt y objects.txt vacíos.
+Conclusión: El lugar del crimen está confirmado, pero no aparecen otros sospechosos ni herramientas. Corroboramos que el tendero es el único sospechoso y la brújula antigua, el único objeto relevante.
+
 Location of the crime is still unknown - the room must have been empty when it happened...
