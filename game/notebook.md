@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Shopkeeper
-- [ ] The Carpenter
+- [✓] The Shopkeeper
+- [x] The Carpenter
 - [x] The Blacksmith
 
 ## Weapons
-- [ ] Kitchen Knife
-- [ ] Brass Candlestick
-- [ ] Antique Compass
+- [x] Kitchen Knife
+- [x] Brass Candlestick
+- [✓] Antique Compass
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -38,5 +38,11 @@ Conclusión: No descartamos el objeto porque es el único mencionado. Seguimos h
 clue.txt: Confirmación de que este es el lugar del crimen.
 Archivos persons.txt y objects.txt vacíos.
 Conclusión: El lugar del crimen está confirmado, pero no aparecen otros sospechosos ni herramientas. Corroboramos que el tendero es el único sospechoso y la brújula antigua, el único objeto relevante.
+
+6.Conclusión final
+Sospechoso: The Shopkeeper (El tendero).
+Arma utilizada: Antique Compass (Brújula antigua).
+Lugar del crimen: Los pasillos del mercado.
+Por lo tanto, descartamos todo lo que no sea mencionado anteriormente en "Suspects" y "Weapons"
 
 Location of the crime is still unknown - the room must have been empty when it happened...
