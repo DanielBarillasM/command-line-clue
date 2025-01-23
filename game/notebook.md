@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Shopkeeper
 - [ ] The Carpenter
-- [ ] The Blacksmith
+- [x] The Blacksmith
 
 ## Weapons
 - [ ] Kitchen Knife
@@ -12,5 +12,9 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
+
+1.
+Pista: El herrero menciona actividad inusual en las casas.
+Acción: Comenzamos investigando en la carpeta houses.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
