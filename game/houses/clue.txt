@@ -1,0 +1,5 @@
+Investigation Update:
+
+A hastily written note mentions checking the mansion next.
+
+Remember: Use 'cd "mansion"' to follow this lead.
